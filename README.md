@@ -5,6 +5,7 @@ By the time designing this project, the New York Knicks and the Cleveland Cavali
 
 The goal of this project is to predict whether Jalen Brunson makes or misses a shot based on shot location, shot type, shot zone, and game context.
 
+<img width="587" height="462" alt="Screenshot 2026-05-19 at 3 53 36 PM" src="https://github.com/user-attachments/assets/167ecc7d-8d4d-48f5-916a-68930e6ae3b1" />
 
 ## Technologies
 - Python
